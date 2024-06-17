@@ -1,4 +1,4 @@
-# Data repository for WMT Quality Estimatio Shared task 2024
+# Data repository for WMT Quality Estimation (QE) Shared task 2024
 
 
 We are adding in this repository fresh data for thw 2024 QE shared task. Note that participants can also access data from the previous years for training.
